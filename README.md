@@ -1,4 +1,4 @@
-# PocketMine Plugins by Vecnavium on Poggit
+# PocketMine Plugins by Vecnavium on Poggit 
 
 | Plugins | State | API | Downloads | Downloads Total |
 | :-----: | :---: | :-: | :-------------: | :-------: |
